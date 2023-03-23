@@ -10,4 +10,4 @@ class TestApp:
 
     def test_division(self):
         res = divide_by_two(10)
-        assert res == 10
+        assert res == 5
